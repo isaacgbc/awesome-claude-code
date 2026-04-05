@@ -408,3 +408,4 @@ This list is licensed under [Creative Commons CC BY-NC-ND 4.0](https://creativec
 
 
 <!-- OBLIGATORY GUARD AGAINST SILLY END-OF-FILE PROBLEM -->
+- [LAN Skills](https://github.com/isaacgbc/lan-skills) - 27 AI skills for the venture capital ecosystem: startups, LPs, corporates, and fund operators. By LAN Accelerator.
